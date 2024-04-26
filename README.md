@@ -1,5 +1,7 @@
 # About
 
+Preliminary Assignment Grade: 72% (eq. 1st)
+
 This repository contains Python implementations of the following edge detectors in Jupyter notebook files.
 - Sobel
 - Roberts
